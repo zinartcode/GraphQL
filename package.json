@@ -1,0 +1,21 @@
+{
+  "name": "cust_db",
+  "version": "1.0.0",
+  "description": "Simple GraphQL server",
+  "main": "server.js",
+  "scripts": {
+    "dev:server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zinartcode/GraphQl"
+  },
+  "author": "Arthur Zinnatullin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2",
+    "nodemon": "^1.17.3"
+  }
+}
