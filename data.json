@@ -1,0 +1,28 @@
+{
+    "allCustomers": [
+      {
+        "id": "1",
+        "name": "Athur Zinnatullin",
+        "email": "smith@gmail.com",
+        "age": 45
+      },
+      {
+        "id": "2",
+        "name": "Silvester Stallone",
+        "email": "grey@gmail.com",
+        "age": 33
+      },
+      {
+        "id": "3",
+        "name": "Leo Di Caprio",
+        "email": "leo@gmail.com",
+        "age": 27
+      },
+      {
+        "id": "4",
+        "name": "Elon Mask",
+        "email": "elonmask@gmail.com",
+        "age": 39
+      }
+    ]
+}
